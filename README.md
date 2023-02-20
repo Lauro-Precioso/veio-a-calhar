@@ -1,5 +1,5 @@
 # Veio a Calhar
-Trabalho interdiciplinar da Fatec São José do Rio Preto, para o curso de Analise e Desenvolvimento de Sistemas
+Trabalho interdisciplinar da Fatec São José do Rio Preto, para o curso de Analise e Desenvolvimento de Sistemas
 
 ## Sobre
 O projeto trata-se de um software para gerenciamento de uma empresa especializada em calhas e rufos. 
